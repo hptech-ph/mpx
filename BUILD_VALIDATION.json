@@ -1,0 +1,13 @@
+{
+  "input_sha256": "2e398ddd155dac08370d42a01e1564a1fc3dd5ada0b6f03fa0a08a7c6f1cce91",
+  "rows": 10341,
+  "frozen_seed": 2026101208,
+  "mean_delta": 0.021432193283954074,
+  "ci": [
+    0.010732070728260247,
+    0.03385261283141908
+  ],
+  "p": 9.999000099990002e-05,
+  "positive_patients": 13,
+  "accepted_seed_check": "PASS"
+}
